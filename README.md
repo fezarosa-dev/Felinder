@@ -123,7 +123,5 @@ http://127.0.0.1:3000/Login/
 ## Próximos passos sugeridos
 
 - Criar páginas JSP ou HTML para o formulário de login.
-- Implementar logout, com destruição da sessão.
 - Adicionar tratamento para senhas (ex: hash).
 - Implementar controle de acesso às páginas protegidas.
-- Criar a API REST caso ainda não tenha, usando Node.js, Java Spring, etc.
