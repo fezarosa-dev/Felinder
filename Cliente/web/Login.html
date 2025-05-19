@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="../style/login.css" />
+        <script>
+            function log() {
+                document.getElementById("login").focus();
+            }
+        </script>
+        <style>
+            body {
+    font-family: Arial, sans-serif; /* Fonte padrão */
+    background-color: #f4f4f4; /* Cor de fundo suave */
+    margin: 0; /* Remove margens padrão */
+    padding: 20px; /* Espaçamento interno */
+}
+
+h1 {
+    text-align: center; /* Centraliza o título */
+    color: #333; /* Cor do texto do título */
+}
+
+form {
+    max-width: 400px; /* Largura máxima do formulário */
+    margin: auto; /* Centraliza o formulário */
+    padding: 20px; /* Espaçamento interno do formulário */
+    background-color: white; /* Fundo branco do formulário */
+    border-radius: 8px; /* Bordas arredondadas */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+label {
+    display: block; /* Faz o label ocupar toda a largura */
+    margin-bottom: 8px; /* Espaçamento abaixo do label */
+    color: #555; /* Cor do texto do label */
+}
+body{
+    background-color: bisque;
+}
+input[type="text"],
+input[type="password"] {
+    width: 100%; /* Largura total do input */
+    padding: 10px; /* Espaçamento interno do input */
+    margin-bottom: 15px; /* Espaçamento abaixo do input */
+    border: 1px solid #ccc; /* Borda cinza clara */
+    border-radius: 4px; /* Bordas arredondadas */
+    font-size: 14px; /* Tamanho da fonte do input */
+}
+
+input[type="submit"] {
+    width: 100%; /* Largura total do botão */
+    padding: 10px; /* Espaçamento interno do botão */
+    background-color: #007bff; /* Cor de fundo do botão */
+    border: none; /* Remove borda do botão */
+    border-radius: 4px; /* Bordas arredondadas do botão */
+    color: white; /* Cor do texto do botão */
+    font-size: 16px; /* Tamanho da fonte do botão */
+    cursor: pointer; /* Cursor de mão ao passar sobre o botão */
+    transition: background-color 0.3s; /* Transição suave de cor */
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3; /* Cor de fundo ao passar o mouse */
+}
+
+        </style>
+    </head>
+    <body onload="log()">
+        <h1>Login no Sistema</h1>
+        <form action="Login" method="post">
+            <label for="login">Login:</label>
+            <input type="text" id="login" name="txtLogin" required />
+
+            <label for="senha">Senha:</label>
+            <input type="password" id="senha" name="txtSenha" required />
+
+            <input type="submit" name="b1" value="Logar" />
+        </form>
+    </body>
+</html>

@@ -1,0 +1,271 @@
+
+18/05/2025, 20:13:02: IP = ::ffff:127.0.0.1 -> Não encontrou cpf = 17725062319
+18/05/2025, 20:13:09: IP = ::ffff:127.0.0.1 -> Não encontrou cpf = 17725062345
+18/05/2025, 20:13:16: IP = ::ffff:127.0.0.1 -> Encontrou {"cpf":"50777924889","senha":"123","login":"fezarosa","nome":"felipe","cep":"13321460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":null,"r2":null,"r3":null,"status":false}
+18/05/2025, 20:13:30: IP = ::ffff:127.0.0.1 -> Não encontrou cpf = 17285645818
+18/05/2025, 20:13:37: IP = ::ffff:127.0.0.1 -> Não encontrou cpf = 17725067884
+18/05/2025, 20:13:50: IP = ::ffff:127.0.0.1 -> Não encontrou login = r
+18/05/2025, 20:13:54: IP = ::ffff:127.0.0.1 -> Não encontrou login = R
+18/05/2025, 20:13:55: IP = ::ffff:127.0.0.1 -> Não encontrou login = Re
+18/05/2025, 20:13:58: IP = ::ffff:127.0.0.1 -> Não encontrou login = Reg
+18/05/2025, 20:13:58: IP = ::ffff:127.0.0.1 -> Não encontrou login = Regi
+18/05/2025, 20:14:01: IP = ::ffff:127.0.0.1 -> Não encontrou login = Reg
+18/05/2025, 20:14:01: IP = ::ffff:127.0.0.1 -> Não encontrou login = Re
+18/05/2025, 20:14:01: IP = ::ffff:127.0.0.1 -> Não encontrou login = R
+18/05/2025, 20:14:02: IP = ::ffff:127.0.0.1 -> Não encontrou login = d
+18/05/2025, 20:14:02: IP = ::ffff:127.0.0.1 -> Não encontrou login = de
+18/05/2025, 20:14:03: IP = ::ffff:127.0.0.1 -> Não encontrou login = d
+18/05/2025, 20:14:03: IP = ::ffff:127.0.0.1 -> Não encontrou login = f
+18/05/2025, 20:14:03: IP = ::ffff:127.0.0.1 -> Não encontrou login = fe
+18/05/2025, 20:14:03: IP = ::ffff:127.0.0.1 -> Não encontrou login = fez
+18/05/2025, 20:14:04: IP = ::ffff:127.0.0.1 -> Não encontrou login = feza
+18/05/2025, 20:14:04: IP = ::ffff:127.0.0.1 -> Não encontrou login = fezar
+18/05/2025, 20:14:05: IP = ::ffff:127.0.0.1 -> Não encontrou login = fezaro
+18/05/2025, 20:14:06: IP = ::ffff:127.0.0.1 -> Não encontrou login = fezaroa
+18/05/2025, 20:14:07: IP = ::ffff:127.0.0.1 -> Não encontrou login = fezaro
+18/05/2025, 20:14:08: IP = ::ffff:127.0.0.1 -> Não encontrou login = fezaros
+18/05/2025, 20:14:09: IP = ::ffff:127.0.0.1 -> Encontrou {"cpf":"50777924889","senha":"123","login":"fezarosa","nome":"felipe","cep":"13321460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":null,"r2":null,"r3":null,"status":false}
+18/05/2025, 20:14:13: IP = ::ffff:127.0.0.1 -> Não encontrou login = fezarosaa
+18/05/2025, 20:14:13: IP = ::ffff:127.0.0.1 -> Encontrou {"cpf":"50777924889","senha":"123","login":"fezarosa","nome":"felipe","cep":"13321460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":null,"r2":null,"r3":null,"status":false}
+18/05/2025, 20:14:14: IP = ::ffff:127.0.0.1 -> Não encontrou login = fezaros
+18/05/2025, 20:14:14: IP = ::ffff:127.0.0.1 -> Não encontrou login = fezaro
+18/05/2025, 20:14:14: IP = ::ffff:127.0.0.1 -> Não encontrou login = fez
+18/05/2025, 20:14:14: IP = ::ffff:127.0.0.1 -> Não encontrou login = fe
+18/05/2025, 20:14:14: IP = ::ffff:127.0.0.1 -> Não encontrou login = f
+18/05/2025, 20:14:14: IP = ::ffff:127.0.0.1 -> Não encontrou login = fezar
+18/05/2025, 20:14:15: IP = ::ffff:127.0.0.1 -> Não encontrou login = R
+18/05/2025, 20:14:15: IP = ::ffff:127.0.0.1 -> Não encontrou login = Re
+18/05/2025, 20:14:16: IP = ::ffff:127.0.0.1 -> Não encontrou login = Reg
+18/05/2025, 20:14:16: IP = ::ffff:127.0.0.1 -> Não encontrou login = Regi
+18/05/2025, 20:15:21: IP = ::ffff:127.0.0.1 -> Cadastrou {"cpf":"177.250.678-84","senha":"123123","login":"Regi","nome":"Regiane Rosa","cep":"13321-460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"401","r1":"c","r2":"a","r3":"a","status":false}
+18/05/2025, 20:15:58: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"","senha":"","login":"","nome":"","cep":"","rua":"","bairro":"","cidade":"","numero":"","r1":"","r2":"","r3":"","status":false}
+18/05/2025, 20:16:12: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"177.250.678-84","senha":"*********","login":"Regi","nome":"Regiane Rosa","cep":"13321-460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"401","r1":null,"r2":null,"r3":null,"status":true}
+18/05/2025, 20:47:51: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"50777924889","senha":"*********","login":"fezarosa","nome":"felipe","cep":"13321460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":null,"r2":null,"r3":null,"status":true}
+18/05/2025, 20:50:37: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"50777924889","senha":"*********","login":"fezarosa","nome":"felipe","cep":"13321460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"A","r2":"B","r3":"C","status":true}
+18/05/2025, 20:50:46: IP = ::ffff:127.0.0.1 -> Encontrou {"cpf":"50777924889","senha":"123","login":"fezarosa","nome":"felipe","cep":"13321460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"A","r2":"B","r3":"C","status":false}
+18/05/2025, 20:50:48: IP = ::ffff:127.0.0.1 -> Não encontrou cpf = 50777924881
+18/05/2025, 20:50:49: IP = ::ffff:127.0.0.1 -> Não encontrou login = f
+18/05/2025, 20:50:49: IP = ::ffff:127.0.0.1 -> Não encontrou login = fe
+18/05/2025, 20:50:50: IP = ::ffff:127.0.0.1 -> Não encontrou login = fez
+18/05/2025, 20:50:50: IP = ::ffff:127.0.0.1 -> Não encontrou login = feza
+18/05/2025, 20:50:50: IP = ::ffff:127.0.0.1 -> Não encontrou login = fezar
+18/05/2025, 20:50:50: IP = ::ffff:127.0.0.1 -> Não encontrou login = fezaro
+18/05/2025, 20:50:51: IP = ::ffff:127.0.0.1 -> Não encontrou login = fezaros
+18/05/2025, 20:50:51: IP = ::ffff:127.0.0.1 -> Encontrou {"cpf":"50777924889","senha":"123","login":"fezarosa","nome":"felipe","cep":"13321460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"A","r2":"B","r3":"C","status":false}
+18/05/2025, 20:50:51: IP = ::ffff:127.0.0.1 -> Não encontrou login = fezarosas
+18/05/2025, 20:51:02: IP = ::ffff:127.0.0.1 -> Cadastrou {"cpf":"507.779.248-81","senha":"123","login":"fezarosas","nome":"felipe","cep":"13321-460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"411","r1":"a","r2":"a","r3":"a","status":false}
+18/05/2025, 20:51:11: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"507.779.248-81","senha":"*********","login":"fezarosas","nome":"felipe","cep":"13321-460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"411","r1":"a","r2":"a","r3":"a","status":true}
+18/05/2025, 21:23:47: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"507.779.248-81","senha":"*********","login":"fezarosas","nome":"felipe","cep":"13321-460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"411","r1":"a","r2":"a","r3":"a","status":true}
+18/05/2025, 21:23:54: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"50777924889","senha":"*********","login":"fezarosa","nome":"felipe","cep":"13321460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"A","r2":"B","r3":"C","status":true}
+18/05/2025, 21:35:26: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"50777924889","senha":"*********","login":"fezarosa","nome":"felipe","cep":"13321460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"A","r2":"B","r3":"C","status":true}
+18/05/2025, 21:42:48: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"50777924889","senha":"*********","login":"fezarosa","nome":"felipe","cep":"13321460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"A","r2":"B","r3":"C","status":true}
+18/05/2025, 21:43:05: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"50777924889","senha":"*********","login":"fezarosa","nome":"felipe","cep":"13321460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"A","r2":"B","r3":"C","status":true}
+18/05/2025, 21:44:08: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"50777924889","senha":"*********","login":"fezarosa","nome":"felipe","cep":"13321460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"A","r2":"B","r3":"C","status":true}
+18/05/2025, 21:49:45: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"50777924889","senha":"*********","login":"fezarosa","nome":"felipe","cep":"13321460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"A","r2":"B","r3":"C","status":true}
+18/05/2025, 21:50:21: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"50777924889","senha":"*********","login":"fezarosa","nome":"felipe","cep":"13321460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"A","r2":"B","r3":"C","status":true}
+18/05/2025, 21:51:20: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"50777924889","senha":"*********","login":"fezarosa","nome":"felipe","cep":"13321460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"A","r2":"B","r3":"C","status":true}
+18/05/2025, 21:51:44: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"50777924889","senha":"*********","login":"fezarosa","nome":"felipe","cep":"13321460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"A","r2":"B","r3":"C","status":true}
+18/05/2025, 21:53:17: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"50777924889","senha":"*********","login":"fezarosa","nome":"felipe","cep":"13321460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"A","r2":"B","r3":"C","status":true}
+18/05/2025, 21:53:40: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"50777924889","senha":"*********","login":"fezarosa","nome":"felipe","cep":"13321460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"A","r2":"B","r3":"C","status":true}
+18/05/2025, 21:54:56: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"50777924889","senha":"*********","login":"fezarosa","nome":"felipe","cep":"13321460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"A","r2":"B","r3":"C","status":true}
+18/05/2025, 21:57:13: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"50777924889","senha":"*********","login":"fezarosa","nome":"felipe","cep":"13321460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"A","r2":"B","r3":"C","status":true}
+18/05/2025, 22:04:03: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"50777924889","senha":"*********","login":"fezarosa","nome":"felipe","cep":"13321460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"A","r2":"B","r3":"C","status":true}
+18/05/2025, 22:10:29: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"50777924889","senha":"*********","login":"fezarosa","nome":"felipe","cep":"13321460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"A","r2":"B","r3":"C","status":true}
+18/05/2025, 22:19:21: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"50777924889","senha":"*********","login":"fezarosa","nome":"felipe","cep":"13321460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"A","r2":"B","r3":"C","status":true}
+18/05/2025, 22:53:14: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"50777924889","senha":"*********","login":"fezarosa","nome":"felipe","cep":"13321460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"A","r2":"B","r3":"C","status":true}
+18/05/2025, 23:00:11: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:01:50: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:02:54: IP = ::ffff:127.0.0.1 -> Encontrou {"cpf":"11111111111","senha":"senha01","login":"usuario1","nome":"Lucas Almeida","cep":"01001000","rua":"Praça da Sé","bairro":"Sé","cidade":"São Paulo","numero":"101","r1":"A","r2":"B","r3":"C","status":false}
+18/05/2025, 23:03:27: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:07:28: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:10:09: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:12:41: IP = ::ffff:127.0.0.1 -> Não encontrou cpf = 50777924889
+18/05/2025, 23:14:35: IP = ::ffff:127.0.0.1 -> Não encontrou cpf = 50777924889
+18/05/2025, 23:16:44: IP = ::ffff:127.0.0.1 -> Não encontrou cpf = undefined
+18/05/2025, 23:17:31: IP = ::ffff:127.0.0.1 -> Encontrou {"cpf":"507.779.248-89","senha":"senha123","login":"felipe123","nome":"Felipe Silva","cep":"13321-460","rua":"Rua das Flores","bairro":"Centro","cidade":"Campinas","numero":"123","r1":"A","r2":"B","r3":"C","status":false}
+18/05/2025, 23:17:49: IP = ::ffff:127.0.0.1 -> Não encontrou cpf = 172.856.458-18
+18/05/2025, 23:17:53: IP = ::ffff:127.0.0.1 -> Não encontrou login = a
+18/05/2025, 23:17:53: IP = ::ffff:127.0.0.1 -> Não encontrou login = ar
+18/05/2025, 23:17:54: IP = ::ffff:127.0.0.1 -> Não encontrou login = aro
+18/05/2025, 23:17:54: IP = ::ffff:127.0.0.1 -> Não encontrou login = arog
+18/05/2025, 23:17:54: IP = ::ffff:127.0.0.1 -> Não encontrou login = aroge
+18/05/2025, 23:17:54: IP = ::ffff:127.0.0.1 -> Não encontrou login = aroger
+18/05/2025, 23:17:54: IP = ::ffff:127.0.0.1 -> Não encontrou login = arogere
+18/05/2025, 23:17:54: IP = ::ffff:127.0.0.1 -> Não encontrou login = aroger
+18/05/2025, 23:17:54: IP = ::ffff:127.0.0.1 -> Não encontrou login = aroge
+18/05/2025, 23:17:54: IP = ::ffff:127.0.0.1 -> Não encontrou login = arog
+18/05/2025, 23:17:55: IP = ::ffff:127.0.0.1 -> Não encontrou login = aro
+18/05/2025, 23:17:55: IP = ::ffff:127.0.0.1 -> Não encontrou login = ar
+18/05/2025, 23:17:55: IP = ::ffff:127.0.0.1 -> Não encontrou login = a
+18/05/2025, 23:17:55: IP = ::ffff:127.0.0.1 -> Não encontrou login = r
+18/05/2025, 23:17:56: IP = ::ffff:127.0.0.1 -> Não encontrou login = ro
+18/05/2025, 23:17:56: IP = ::ffff:127.0.0.1 -> Não encontrou login = rog
+18/05/2025, 23:17:56: IP = ::ffff:127.0.0.1 -> Não encontrou login = roge
+18/05/2025, 23:17:56: IP = ::ffff:127.0.0.1 -> Não encontrou login = roger
+18/05/2025, 23:17:56: IP = ::ffff:127.0.0.1 -> Não encontrou login = rogeri
+18/05/2025, 23:17:56: IP = ::ffff:127.0.0.1 -> Não encontrou login = rogerio
+18/05/2025, 23:18:06: IP = ::ffff:127.0.0.1 -> Cadastrou {"cpf":"172.856.458-18","senha":"123","login":"rogerio","nome":"Rogerio Rosa","cep":"13321-460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"a","r2":"a","r3":"a","status":false}
+18/05/2025, 23:18:28: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"172.856.458-18","senha":"*********","login":"rogerio","nome":"Rogerio Rosa","cep":"13321-460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"a","r2":"a","r3":"a","status":true}
+18/05/2025, 23:18:29: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:22:00: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:26: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:29: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:38: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:39: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:40: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:41: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:42: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:43: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:43: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:44: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:47: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:48: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:48: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:48: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:49: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:49: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:50: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:51: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:52: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:54: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:54: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:55: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:56: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:56: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:56: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:57: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:57: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:26:59: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:29:39: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:29:53: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:29:54: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:31:08: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:31:15: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"172.856.458-18","senha":"*********","login":"rogerio","nome":"Rogerio Rosa","cep":"13321-460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"a","r2":"a","r3":"a","status":true}
+18/05/2025, 23:31:16: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:31:26: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:31:26: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:31:40: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:31:41: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:31:42: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:31:45: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:31:46: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:32:16: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:32:27: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:32:29: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:33:39: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"172.856.458-18","senha":"*********","login":"rogerio","nome":"Rogerio Rosa","cep":"13321-460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"a","r2":"a","r3":"a","status":true}
+18/05/2025, 23:33:40: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:35:41: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:35:43: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:35:49: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:35:50: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:35:50: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:35:50: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:35:51: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:35:51: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:35:52: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:35:52: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:35:53: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:35:54: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:35:55: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:35:56: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:38:25: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"172.856.458-18","senha":"*********","login":"rogerio","nome":"Rogerio Rosa","cep":"13321-460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"a","r2":"a","r3":"a","status":true}
+18/05/2025, 23:38:27: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:38:29: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:38:29: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:38:30: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:38:30: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:38:30: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:38:31: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:38:32: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:38:32: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:41:35: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"172.856.458-18","senha":"*********","login":"rogerio","nome":"Rogerio Rosa","cep":"13321-460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"a","r2":"a","r3":"a","status":true}
+18/05/2025, 23:41:36: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:41:38: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:41:40: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:42:09: IP = ::ffff:127.0.0.1 -> Não encontrou cpf = 231.545.544-84
+18/05/2025, 23:42:13: IP = ::ffff:127.0.0.1 -> Não encontrou login = h
+18/05/2025, 23:42:13: IP = ::ffff:127.0.0.1 -> Não encontrou login = ht
+18/05/2025, 23:42:13: IP = ::ffff:127.0.0.1 -> Não encontrou login = htd
+18/05/2025, 23:42:13: IP = ::ffff:127.0.0.1 -> Não encontrou login = htdf
+18/05/2025, 23:42:13: IP = ::ffff:127.0.0.1 -> Não encontrou login = htdfg
+18/05/2025, 23:42:13: IP = ::ffff:127.0.0.1 -> Não encontrou login = htdfgf
+18/05/2025, 23:42:14: IP = ::ffff:127.0.0.1 -> Não encontrou login = htdfgff
+18/05/2025, 23:42:14: IP = ::ffff:127.0.0.1 -> Não encontrou login = htdfgf
+18/05/2025, 23:42:14: IP = ::ffff:127.0.0.1 -> Não encontrou login = htdfg
+18/05/2025, 23:42:15: IP = ::ffff:127.0.0.1 -> Não encontrou login = htdf
+18/05/2025, 23:42:15: IP = ::ffff:127.0.0.1 -> Não encontrou login = htdf=
+18/05/2025, 23:42:15: IP = ::ffff:127.0.0.1 -> Não encontrou login = htdf
+18/05/2025, 23:42:15: IP = ::ffff:127.0.0.1 -> Não encontrou login = htd
+18/05/2025, 23:42:15: IP = ::ffff:127.0.0.1 -> Não encontrou login = ht
+18/05/2025, 23:42:15: IP = ::ffff:127.0.0.1 -> Não encontrou login = h
+18/05/2025, 23:42:16: IP = ::ffff:127.0.0.1 -> Não encontrou login = j
+18/05/2025, 23:42:17: IP = ::ffff:127.0.0.1 -> Não encontrou login = jo
+18/05/2025, 23:42:17: IP = ::ffff:127.0.0.1 -> Não encontrou login = joa
+18/05/2025, 23:42:18: IP = ::ffff:127.0.0.1 -> Não encontrou login = joan
+18/05/2025, 23:42:21: IP = ::ffff:127.0.0.1 -> Não encontrou login = joana
+18/05/2025, 23:42:50: IP = ::ffff:127.0.0.1 -> Cadastrou {"cpf":"231.545.544-84","senha":"123","login":"joana","nome":"felipe","cep":"13321-460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"411","r1":"c","r2":"b","r3":"c","status":false}
+18/05/2025, 23:44:34: IP = ::ffff:127.0.0.1 -> Não encontrou cpf = 564.654.665-65
+18/05/2025, 23:44:42: IP = ::ffff:127.0.0.1 -> Não encontrou login = j
+18/05/2025, 23:44:44: IP = ::ffff:127.0.0.1 -> Não encontrou login = jf
+18/05/2025, 23:44:44: IP = ::ffff:127.0.0.1 -> Não encontrou login = jfs
+18/05/2025, 23:44:45: IP = ::ffff:127.0.0.1 -> Não encontrou login = jf
+18/05/2025, 23:44:45: IP = ::ffff:127.0.0.1 -> Não encontrou login = j
+18/05/2025, 23:44:46: IP = ::ffff:127.0.0.1 -> Não encontrou login = j
+18/05/2025, 23:44:48: IP = ::ffff:127.0.0.1 -> Não encontrou login = jo
+18/05/2025, 23:44:49: IP = ::ffff:127.0.0.1 -> Não encontrou login = joa
+18/05/2025, 23:44:51: IP = ::ffff:127.0.0.1 -> Não encontrou login = joam
+18/05/2025, 23:44:53: IP = ::ffff:127.0.0.1 -> Não encontrou login = joama
+18/05/2025, 23:44:56: IP = ::ffff:127.0.0.1 -> Não encontrou login = joam
+18/05/2025, 23:44:56: IP = ::ffff:127.0.0.1 -> Não encontrou login = joa
+18/05/2025, 23:44:57: IP = ::ffff:127.0.0.1 -> Não encontrou login = jo
+18/05/2025, 23:44:59: IP = ::ffff:127.0.0.1 -> Não encontrou login = joa
+18/05/2025, 23:45:00: IP = ::ffff:127.0.0.1 -> Não encontrou login = joan
+18/05/2025, 23:45:00: IP = ::ffff:127.0.0.1 -> Encontrou {"cpf":"231.545.544-84","senha":"123","login":"joana","nome":"felipe","cep":"13321-460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"411","r1":"c","r2":"b","r3":"c","status":false}
+18/05/2025, 23:45:03: IP = ::ffff:127.0.0.1 -> Não encontrou login = joanas
+18/05/2025, 23:45:29: IP = ::ffff:127.0.0.1 -> Cadastrou {"cpf":"564.654.665-65","senha":"123","login":"joanas","nome":"joana","cep":"13321-460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"5454","r1":"b","r2":"b","r3":"b","status":false}
+18/05/2025, 23:45:46: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"564.654.665-65","senha":"*********","login":"joanas","nome":"joana","cep":"13321-460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"5454","r1":"b","r2":"b","r3":"b","status":true}
+18/05/2025, 23:45:52: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:45:57: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:45:59: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:46:18: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"564.654.665-65","senha":"*********","login":"joanas","nome":"joana","cep":"13321-460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"5454","r1":"b","r2":"b","r3":"b","status":true}
+18/05/2025, 23:46:21: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:47:40: IP = ::ffff:127.0.0.1 -> Encontrou {"cpf":"172.856.458-18","senha":"123","login":"rogerio","nome":"Rogerio Rosa","cep":"13321-460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"a","r2":"a","r3":"a","status":false}
+18/05/2025, 23:47:58: IP = ::ffff:127.0.0.1 -> Não encontrou cpf = 526.524.145-89
+18/05/2025, 23:48:11: IP = ::ffff:127.0.0.1 -> Não encontrou login = r
+18/05/2025, 23:48:13: IP = ::ffff:127.0.0.1 -> Não encontrou login = ro
+18/05/2025, 23:48:14: IP = ::ffff:127.0.0.1 -> Não encontrou login = rog
+18/05/2025, 23:48:15: IP = ::ffff:127.0.0.1 -> Não encontrou login = roge
+18/05/2025, 23:48:15: IP = ::ffff:127.0.0.1 -> Não encontrou login = roger
+18/05/2025, 23:48:15: IP = ::ffff:127.0.0.1 -> Não encontrou login = rogeri
+18/05/2025, 23:48:16: IP = ::ffff:127.0.0.1 -> Encontrou {"cpf":"172.856.458-18","senha":"123","login":"rogerio","nome":"Rogerio Rosa","cep":"13321-460","rua":"Rua Carlos Gomes","bairro":"Jardim Santo Antônio","cidade":"Salto","numero":"415","r1":"a","r2":"a","r3":"a","status":false}
+18/05/2025, 23:48:18: IP = ::ffff:127.0.0.1 -> Não encontrou login = rogeri
+18/05/2025, 23:48:18: IP = ::ffff:127.0.0.1 -> Não encontrou login = roger
+18/05/2025, 23:48:19: IP = ::ffff:127.0.0.1 -> Não encontrou login = roge
+18/05/2025, 23:48:19: IP = ::ffff:127.0.0.1 -> Não encontrou login = rog
+18/05/2025, 23:48:22: IP = ::ffff:127.0.0.1 -> Não encontrou login = rogé
+18/05/2025, 23:48:22: IP = ::ffff:127.0.0.1 -> Não encontrou login = rogér
+18/05/2025, 23:48:23: IP = ::ffff:127.0.0.1 -> Não encontrou login = rogéri
+18/05/2025, 23:48:23: IP = ::ffff:127.0.0.1 -> Não encontrou login = rogério
+18/05/2025, 23:48:29: IP = ::ffff:127.0.0.1 -> Não encontrou login = rogéri
+18/05/2025, 23:48:29: IP = ::ffff:127.0.0.1 -> Não encontrou login = rogér
+18/05/2025, 23:48:30: IP = ::ffff:127.0.0.1 -> Não encontrou login = rogé
+18/05/2025, 23:48:30: IP = ::ffff:127.0.0.1 -> Não encontrou login = rog
+18/05/2025, 23:48:33: IP = ::ffff:127.0.0.1 -> Não encontrou login = rog
+18/05/2025, 23:49:45: IP = ::ffff:127.0.0.1 -> Não encontrou login = rog
+18/05/2025, 23:50:37: IP = ::ffff:127.0.0.1 -> Não encontrou cpf = 123.456.789-18
+18/05/2025, 23:50:40: IP = ::ffff:127.0.0.1 -> Não encontrou cpf = 123.456.789-12
+18/05/2025, 23:50:55: IP = ::ffff:127.0.0.1 -> Cadastrou {"cpf":"123.456.789-12","senha":"123456","login":"rog ","nome":"rog rog","cep":"13321-000","rua":"Rua Marrey Júnior","bairro":"Jardim Maria José","cidade":"Salto","numero":"100","r1":"b","r2":"b","r3":"b","status":false}
+18/05/2025, 23:51:06: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"123.456.789-12","senha":"*********","login":"rog ","nome":"rog rog","cep":"13321-000","rua":"Rua Marrey Júnior","bairro":"Jardim Maria José","cidade":"Salto","numero":"100","r1":"b","r2":"b","r3":"b","status":true}
+18/05/2025, 23:51:14: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:51:23: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+18/05/2025, 23:53:47: IP = ::ffff:127.0.0.1 -> Não encontrou login = rog
+18/05/2025, 23:56:30: IP = ::ffff:127.0.0.1 -> Não encontrou login = rog
+19/05/2025, 00:01:57: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"123.456.789-12","senha":"*********","login":"rog ","nome":"rog rog","cep":"13321-000","rua":"Rua Marrey Júnior","bairro":"Jardim Maria José","cidade":"Salto","numero":"100","r1":"b","r2":"b","r3":"b","status":true}
+19/05/2025, 00:10:06: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+19/05/2025, 00:10:09: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+19/05/2025, 00:10:10: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+19/05/2025, 00:10:24: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+19/05/2025, 00:10:40: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+19/05/2025, 00:10:46: IP = ::ffff:127.0.0.1 -> Fez login {"cpf":"123.456.789-12","senha":"*********","login":"rog ","nome":"rog rog","cep":"13321-000","rua":"Rua Marrey Júnior","bairro":"Jardim Maria José","cidade":"Salto","numero":"100","r1":"b","r2":"b","r3":"b","status":true}
+19/05/2025, 00:10:46: IP = ::ffff:127.0.0.1 -> Listou todos os usuários
+19/05/2025, 00:10:48: IP = ::ffff:127.0.0.1 -> Listou todos os usuários

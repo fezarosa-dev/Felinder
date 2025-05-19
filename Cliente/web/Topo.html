@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Topo com Login</title>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+      body {
+        font-family: "Roboto", sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: bisque;
+        color: #333;
+      }
+
+      .topo {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #007bff;
+        padding: 20px 40px;
+        color: white;
+        height: 50vh;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      }
+
+      .topo h1 {
+        margin: 0;
+        font-size: 26px;
+        font-weight: 700;
+      }
+
+      .topo a {
+        text-decoration: none;
+        color: white;
+        font-weight: 700;
+        font-size: 26px;
+        margin-left: 15px;
+        transition: color 0.3s ease;
+      }
+
+      .topo a:hover {
+        color: #ffd700;
+      }
+
+      #nomeUsuario {
+        margin-left: 20px;
+        font-weight: 400;
+        font-size: 18px;
+      }
+
+      #btnAcharPessoas {
+        background-color: #28a745;
+        border: none;
+        padding: 10px 20px;
+        color: white;
+        font-size: 16px;
+        cursor: pointer;
+        border-radius: 25px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        transition: background-color 0.3s ease, transform 0.2s ease;
+        margin-left: 10px;
+      }
+
+      #btnAcharPessoas:hover {
+        background-color: #218838;
+        transform: scale(1.05);
+      }
+      #btnSair:hover{
+        background-color: #490d0d;
+        transform: scale(1.05);
+      }
+      #btnSair{
+        background-color: #a72828;
+        border: none;
+        padding: 10px 20px;
+        color: white;
+        font-size: 16px;
+        cursor: pointer;
+        border-radius: 25px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        transition: background-color 0.3s ease, transform 0.2s ease;
+        margin-left: 10px;
+      }
+      
+      div.links {
+        display: flex;
+        gap: 20px;
+        align-items: center;
+      }
+
+      div.forms {
+        display: flex;
+        align-items: center;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="topo">
+      <div class="links">
+        <a href="pr.html" target="principal">Home</a>
+        <a href="Login.html" target="principal">Login</a>
+        <a href="cadastrar.html" target="principal">Cadastrar</a>
+      </div>
+
+      <h1 id="nomeUsuario">Carregando...</h1>
+        <form action="BuscarPessoas" method="post" target="principal" style="margin:0;">
+          <input
+            type="submit"
+            value="Achar Pessoas"
+            id="btnAcharPessoas"
+          />
+        </form>
+      <div class="forms">
+        <form action="LogoutServlet" method="post" target="principal" style="margin:0;">
+          <input
+            type="submit"
+            value="Sair"
+            id="btnSair"
+            name="Sair"
+            onclick="sair()"
+          />
+        </form>
+
+      </div>
+    </div>
+
+    <script>
+      function sair() {
+        alert("Desconectado");
+      }
+
+      // Contexto da aplicação no servidor
+      const contexto = "/Cliente";
+
+      async function mostrarNomeUsuario() {
+        try {
+          const response = await fetch(contexto + "/check_login");
+
+          if (!response.ok) {
+            throw new Error("Erro HTTP: " + response.status);
+          }
+
+          const data = await response.json();
+
+          if (data.logado) {
+            document.getElementById("nomeUsuario").textContent =
+              "Olá, " + data.usuario;
+          } else {
+            document.getElementById("nomeUsuario").textContent = "Não logado";
+          }
+        } catch (error) {
+          console.error("Erro ao buscar login:", error);
+          document.getElementById("nomeUsuario").textContent =
+            "Erro no login: " + error.message;
+        }
+      }
+
+      // Atualiza o nome do usuário a cada 1 segundo
+      setInterval(mostrarNomeUsuario, 1000);
+
+      // Chama logo que a página carrega
+      mostrarNomeUsuario();
+    </script>
+  </body>
+</html>
